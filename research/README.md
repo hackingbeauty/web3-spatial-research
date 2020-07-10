@@ -24,6 +24,20 @@
 
 [Fintech and sustainable development](https://unepinquiry.org/publication/fintech-and-sustainable-development-assessing-the-implications/)
 
+### Funding Opportunities
+
+[SBIR Grants - NOAA (Amy of BFLO)](https://techpartnerships.noaa.gov/SBIR)
+
+### Spatial x Blockchain
+
+[XYO](https://xyo.network/)
+
+[FOAM Protocol](https://foam.space/)
+
+[IBISA Network](https://ibisa.network/)
+
+
+
 --- 
 
 ## Notes from the [Refinitiv Spatial Finance webinar](http://solutions.refinitiv.com/FoSDA_spatialfinance/).

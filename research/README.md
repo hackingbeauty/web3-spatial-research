@@ -2,6 +2,18 @@
 
 ## Reading List
 
+### Spatial Primer
+
+[Spatial data science for the uninitiated](https://towardsdatascience.com/spatial-data-science-for-the-uninitiated-9a78804d4efa)
+
+[What is Spatial Data?](https://www.safe.com/what-is/spatial-data/)
+
+[W3C Spatial Data on the Web Best Practices](https://www.w3.org/TR/sdw-bp/)
+
+[lon lat lon lat](https://macwright.com/lonlat/)
+
+### Spatial Finance
+
 [Sustainable Finance Market Intelligence](https://sa.catapult.org.uk/sustainable-finance/market-intelligence/)
 
 [Next Gen Carbon Markets](https://www.smithschool.ox.ac.uk/research/sustainable-finance/publications/Business-Green-Next-Gen-Carbon-Markets191017.pdf)
@@ -24,6 +36,8 @@
 
 [Fintech and sustainable development](https://unepinquiry.org/publication/fintech-and-sustainable-development-assessing-the-implications/)
 
+[Spatial Economics](https://www.econlib.org/library/Enc/SpatialEconomics.html)
+
 ### Funding Opportunities
 
 [SBIR Grants - NOAA (Amy of BFLO)](https://techpartnerships.noaa.gov/SBIR)
@@ -36,7 +50,21 @@
 
 [IBISA Network](https://ibisa.network/)
 
+### Spatial Algorithms
 
+[S2](http://s2geometry.io)
+
+[Uber h3](https://eng.uber.com/h3/)
+
+### Things we've worked on
+
+#### Robin Davids
+
+[tellor](https://tellor.io/) - 
+
+[Ultra.io](https://ultra.io/) - a next generation games distribution platform
+
+[Ferrum Network](https://ferrum.network/) - a vertically integrated line of decentralized financial applications.
 
 --- 
 

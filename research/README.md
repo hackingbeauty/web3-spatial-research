@@ -56,6 +56,8 @@
 
 [Uber h3](https://eng.uber.com/h3/)
 
+[FOAM Crypto-Spatial Coordinates](https://blog.foam.space/crypto-spatial-coordinates-fe0527816506)
+
 ### Things we've worked on
 
 #### Robin Davids

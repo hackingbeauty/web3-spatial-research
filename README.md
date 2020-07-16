@@ -18,6 +18,8 @@
 
 [Next Gen Carbon Markets](https://www.smithschool.ox.ac.uk/research/sustainable-finance/publications/Business-Green-Next-Gen-Carbon-Markets191017.pdf)
 
+[Climate risk analysis from space: remote sensing, machine learning, and the future of measuring climate-related risk](https://spatialfinanceinitiative.com/climate-risk-analysis-from-space/)
+
 [Pennon Green Finance press release](https://www.pennon-group.co.uk/media/news/pennon-signs-pioneering-%C2%A380m-green-finance-deals-societe-generale-and-natwest)
 
 [Societe Generale press release](https://wholesale.banking.societegenerale.com/uploads/tx_bisgnews/Pennon_Group_plc_FINAL_310518_02.pdf)
